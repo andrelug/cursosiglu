@@ -321,9 +321,9 @@ section:nth-of-type(even) {
 }
 .btn:hover {
   background: none;
-  color: #fff;
-  border-color: #3498db;
-  background-color: #3498db;
+  color: #3498db !important;
+  border-color: #3498db !important;
+  background-color: #fff !important;
 }
 .btn-primary {
   border-radius: 25px;
